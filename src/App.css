@@ -1,0 +1,49 @@
+@import "~antd/dist/antd.css";
+
+body {
+  background-color: #f0f2f5;
+  font-family: "Montserrat", sans-serif;
+}
+
+.App-todos {
+  font-family: "Montserrat", sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #ffa39e;
+}
+
+.App-header h1 {
+  color: whitesmoke;
+}
+
+.App-content {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.App-add-todo-input {
+  max-width: 300px;
+  margin-right: 5px;
+}
+
+.App-todos {
+  background-color: white;
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.App-todo-complete {
+  font-size: 22px;
+  font-weight: bold;
+  cursor: pointer;
+  position: absolute;
+  right: 24px;
+}
