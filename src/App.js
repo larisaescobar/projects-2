@@ -103,7 +103,7 @@ class App extends Component {
           />
         </Content>
         <Footer className="App-footer">
-          Made with &hearts; by Larisa Escobar
+          Made with &hearts; by Larisa
         </Footer>
       </Layout>
     );
